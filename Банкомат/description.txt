@@ -1,0 +1,1 @@
+This program is an ATM. In it you can credit money to your bank accounts, withdraw money, transfer money between your accounts and see the list of transactions
