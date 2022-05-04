@@ -1,0 +1,8 @@
+Moscow Kiev 500 12:00 №1
+Paris London 500 12:00 №2
+Yerevan Kiev 500 12:00 №3
+Yerevan Bali 500 12:00 №4
+Moscow Yerevan 500 12:00 №1
+Bali Paris 500 12:00 №5
+Moscow Bali 500 19:00 №6
+London Yerevan 500 12:00 №7
